@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Github + Mermaid  
+    Mermaid Browser Extension
   </h1>
 
   <p>A fork from <a href="https://github.com/BackMarket/github-mermaid-extension">github mermaid extension</a></p>
