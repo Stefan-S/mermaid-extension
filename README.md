@@ -15,19 +15,6 @@
     </strong>
   </p>
 </div>
-
-<div align="center">
-  <img src="./resources/chrome-promo/marquee.png" alt="Extension Boilerplate"/>
-
-  <p align="center">
-    <a href="#install">Install</a> •
-    <a href="#features">Features</a> •
-    <a href="#how-to-use">How to use</a> •
-    <a href="#roadmap">Roadmap</a> •
-    <a href="#license">License</a> •
-    <a href="#contributing">Contributing</a>
-  </p>
-<p>
   Links to all the available extensions can be found on the official page <a href="https://mermaid.stefs.me/">mermaid.stefs.me</a>
   </p>
 </div>
