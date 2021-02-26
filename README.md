@@ -26,29 +26,14 @@
     <a href="#license">License</a> •
     <a href="#contributing">Contributing</a>
   </p>
-
-  <p class="center">
-    <a href="https://travis-ci.com/BackMarket/github-mermaid-extension" target="_blank">
-      <img src="https://travis-ci.com/BackMarket/github-mermaid-extension.svg?branch=master"/>
-    </a>
-    <a href="https://david-dm.org/BackMarket/github-mermaid-extension">
-      <img src="https://img.shields.io/david/BackMarket/github-mermaid-extension.svg"/>
-    </a>
-    <a href="https://david-dm.org/BackMarket/github-mermaid-extension#info=devDependencies">
-      <img src="https://img.shields.io/david/dev/BackMarket/github-mermaid-extension.svg"/>
-    </a>
-    <a href="https://greenkeeper.io/">
-      <img src="https://badges.greenkeeper.io/BackMarket/github-mermaid-extension.svg"/>
-    </a>
+<p>
+  Links to all the available extensions can be found on the official page (https://mermaid.stefs.me/)[https://mermaid.stefs.me/]
   </p>
 </div>
 <br>
 
 ## Install
-
-- <img height="16" src="./resources/icons/chrome.svg"> **Google Chrome**: [GitHub + Mermaid - Chrome Web Store](https://chrome.google.com/webstore/detail/github-%20-mermaid/goiiopgdnkogdbjmncgedmgpoajilohe)
-- <img height="16" src="./resources/icons/firefox.svg"> **Firefox**: [GitHub + Mermaid - Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/github-mermaid/)
-- <img height="16" src="./resources/icons/opera.svg"> **Opera**: coming later
+Follow the instructions (here)[https://mermaid.stefs.me/]
 
 ## Features
 
@@ -140,23 +125,7 @@ Simply put Mermaid code into <code>```mermaid</code>. See
 information about the Mermaid syntax.
 
 ## Roadmap
-
-- [x] Initial implementation
-- [x] Publish Chrome extension
-- [x] Documentation
-- [x] Publish Firefox extension
-- [ ] Publish Opera extension
-- [x] Continuous Integration
-- [x] Upgrade dependencies
-- [x] Automatic dependency management
-- [x] Fix #3
-- [ ] Testing
-- [ ] Dark theme + option page
-- [ ] Cleanup
-
-## License
-
-[![License](https://img.shields.io/github/license/BackMarket/github-mermaid-extension.svg)](/LICENSE.md)
+[X] Keep it updated
 
 ## Contributing
 
