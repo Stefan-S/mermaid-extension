@@ -1,9 +1,6 @@
 #Diagrams
-For diagrams we use Mermaid.
-Unfortenatly, unlike GitLab, GitHub (Pages) does not support this syntax, that is why if someone would like to view these 
 
-If you see a top down transitive dependecy graph just below this statement, your setup is correct.
-
+Dependencies. Graph, Exemple one.
 ```mermaid
 graph TD
     App-->AppDependency
@@ -24,6 +21,9 @@ graph TD;
 '''
 ```
 
+
+The rest of the diagrams are the same as shown on the mermaid live editor.
+This page exists to confirm to test and verify the behaviour of a running instance of the browser plugin.
 Other graph types we can use with the current setup are the following
 ## Flowchart
 ```mermaid
