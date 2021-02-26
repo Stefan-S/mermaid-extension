@@ -3,7 +3,7 @@
     Github + Mermaid  
   </h1>
 
-  <p>A fork from [github-mermaid-extension](https://github.com/BackMarket/github-mermaid-extension)</p>
+  <p>A fork from [github mermaid extension](https://github.com/BackMarket/github-mermaid-extension)</p>
   <p>
     <strong>
       A browser extension for Chrome, Opera & Firefox that adds
@@ -28,7 +28,7 @@
     <a href="#contributing">Contributing</a>
   </p>
 <p>
-  Links to all the available extensions can be found on the official page [https://mermaid.stefs.me/](https://mermaid.stefs.me/)
+  Links to all the available extensions can be found on the official page [mermaid.stefs.me](https://mermaid.stefs.me/)
   </p>
 </div>
 <br>
