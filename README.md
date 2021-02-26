@@ -3,6 +3,7 @@
     Github + Mermaid  
   </h1>
 
+  <p>A fork from [github-mermaid-extension](https://github.com/BackMarket/github-mermaid-extension)</p>
   <p>
     <strong>
       A browser extension for Chrome, Opera & Firefox that adds
@@ -27,22 +28,13 @@
     <a href="#contributing">Contributing</a>
   </p>
 <p>
-  Links to all the available extensions can be found on the official page (https://mermaid.stefs.me/)[https://mermaid.stefs.me/]
+  Links to all the available extensions can be found on the official page [https://mermaid.stefs.me/](https://mermaid.stefs.me/)
   </p>
 </div>
 <br>
 
 ## Install
-Follow the instructions (here)[https://mermaid.stefs.me/]
-
-## Features
-
-### Supported GitHub features
-
-- [x] Pull requests & issues description (preview + published) - [Demo](https://github.com/BackMarket/github-mermaid-extension/issues/1)
-- [x] Pull requests & issues comment (preview + published)
-- [x] Markdown (`.md`) files (diff + published)
-- [x] Gists - [Demo](https://gist.github.com/amercier/df2e07a994315d323e398120bdda3989)
+Follow the instructions [here](https://mermaid.stefs.me/)
 
 ### Diagram types
 
